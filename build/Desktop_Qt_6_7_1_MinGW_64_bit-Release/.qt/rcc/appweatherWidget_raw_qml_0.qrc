@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/weatherWidget/">
+    <file alias="Main.qml">D:/Yash/Coding/QML/weatherWidget/Main.qml</file>
+  </qresource>
+</RCC>
+
